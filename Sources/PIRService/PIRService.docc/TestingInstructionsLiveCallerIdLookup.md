@@ -1,6 +1,6 @@
 # Testing Live Caller ID Lookup
 
-Learn how to run the example service.
+Learn how to run the example service for Live Caller ID Lookup.
 
 ## Overview
 
@@ -54,7 +54,7 @@ swift package experimental-install -c release --product PIRService
 
 ### Preparing the dataset
 
-> Seealso: <doc:DataFormat>
+> Seealso: <doc:LiveCallerIDLookupDataFormat>
 
 Lets start by making a new directory:
 ```sh
